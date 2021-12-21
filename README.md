@@ -1,9 +1,9 @@
-# Computer_Vision_Projects
-## This Repository provides my Computer Vision Projects  & Tips and Tricks & Implemenations and more  :fire: :fire: :fire: :fire:
+## Computer_Vision_Projects
+### This Repository provides my Computer Vision Projects  & Tips and Tricks & Implemenations and more  :fire: :fire: :fire: :fire:
 
-## This Reposirory will contains main two Folders: (TensorFlow and PyTorch) for both major Frameworks for Deep Learning
+### This Reposirory will contains main two Folders: (TensorFlow and PyTorch) for both major Frameworks for Deep Learning
 
-## TensorFlow Folder contains:
+### TensorFlow Folder contains: 👌👌👌
 __01.Basics_Image_Representations__  :pencil: :books: <br />
 __02- ANN & Sequential & Functional API & TensorBoard__  :pencil: :books: <br />
 __03- Tips & Tricks_Training_DNN__  :pencil: :books: <br />
