@@ -4,7 +4,7 @@
 ### This Reposirory will contains main two Folders: (TensorFlow and PyTorch) for both major Frameworks for Deep Learning
 
 ### TensorFlow Folder contains: 👌👌👌
-:pencil::books: __01.Basics_Image_Representations__     <br />
+:pencil::books: __01- Basics_Image_Representations__     <br />
 :pencil::books: __02- ANN & Sequential & Functional API & TensorBoard__    <br />
 :pencil::books: __03- Tips & Tricks_Training_DNN__   <br />
 :pencil::books: __04- CNN_for_ComputerVision__    <br />
