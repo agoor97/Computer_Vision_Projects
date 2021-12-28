@@ -13,3 +13,4 @@
 :pencil::books: __07- Transfer_Learning_FeatureExtraction_FineTuning__   <br />
 :pencil::books: __08- Visualizing_what_CNN_learns__    <br />
 :pencil::books: __09- Semantic_Segmentation_UNet_CAMVID_Dataset__    <br />
+:pencil::books: __09- Semantic_Segmentation_UNet_CAMVID_version_2__    <br />
